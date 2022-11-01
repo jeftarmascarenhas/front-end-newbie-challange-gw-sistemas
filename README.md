@@ -44,3 +44,21 @@ Você pode usar XD para [abrir](./assets/GW-Front-Junior.xd) o arquivo da UI par
 - Usar React ou algum framework React
 - Pode utilizar bibliotecas como Chakra UI, Material UI...
 - Usar Axios ou Fetch para fazer requisições a api ReqRes
+
+## Telas
+
+### Login
+
+![login](./assets//layouts/Login.png)
+
+### Register
+
+![Register](./assets//layouts/Register.png)
+
+### List users
+
+![Register](./assets//layouts/List-all-users.png)
+
+### User Profile
+
+![Register](./assets//layouts/User-Profile.png)
